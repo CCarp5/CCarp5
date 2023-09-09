@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Running a Keyscanner using Metasploit](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Running a Keyscanner using Metasploit](https://github.com/CCarp5/Metasploit-Demo)
 
 
 <h2>📃Certifications:</h2>
