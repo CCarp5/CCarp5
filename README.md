@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
    -[Writing Basic Alerts in Splunk](https://github.com/CCarp5/Writing-Basic-Alerts-in-Splunk/blob/main/README.md)
-  
-  - [Running a Keyscanner using Metasploit](https://github.com/CCarp5/Metasploit-Demo)
+   
+   -[Running a Keyscanner using Metasploit](https://github.com/CCarp5/Metasploit-Demo)
 
 
 <h2>📃Certifications:</h2>
